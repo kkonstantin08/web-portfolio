@@ -9,7 +9,7 @@ function adjustLayout() {
 					<div class="carousel-item active">
 						<div class="row-project">
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/skills.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/skills.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">Card title</h5>
 									<p class="card-text-project">
