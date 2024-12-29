@@ -9,7 +9,7 @@ function adjustLayout() {
 					<div class="carousel-item active">
 						<div class="row-project">
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/skills.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/skills.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">Online Learning Platform</h5>
 									<p class="card-text-project">
@@ -24,7 +24,7 @@ function adjustLayout() {
 					<div class="carousel-item">
 						<div class="row-project">
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/veterinar.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/veterinar.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">Mixlab</h5>
 									<p class="card-text-project">
@@ -39,7 +39,7 @@ function adjustLayout() {
 					<div class="carousel-item">
 						<div class="row-project">
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/weather.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/weather.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">Weather Telegram Bot</h5>
 									<p class="card-text-project">
@@ -53,7 +53,7 @@ function adjustLayout() {
 					<div class="carousel-item">
 						<div class="row-project">
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/calculator.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/calculator.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">PyQt6 Calculator</h5>
 									<p class="card-text-project">
@@ -67,7 +67,7 @@ function adjustLayout() {
 					<div class="carousel-item">
 						<div class="row-project">
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/horoscope.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/horoscope.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">Horoscope Telegram Bot</h5>
 									<p class="card-text-project">
@@ -109,7 +109,7 @@ function adjustLayout() {
 						<div class="row-project">
 							<!-- flask проект -->
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/flask.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/flask.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">News Portal</h5>
 									<p class="card-text-project">
@@ -120,7 +120,7 @@ function adjustLayout() {
 							</div>
 							<!-- skills проект -->
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/skills.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/skills.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">Online Learning Platform</h5>
 									<p class="card-text-project">
@@ -135,7 +135,7 @@ function adjustLayout() {
 						<div class="row-project">
 							<!-- calculator проект -->
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/calculator.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/calculator.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">PyQt6 Calculator</h5>
 									<p class="card-text-project">
@@ -146,7 +146,7 @@ function adjustLayout() {
 							</div>
 							<!-- horoscope проект -->
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/horoscope.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/horoscope.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">Horoscope Telegram Bot</h5>
 									<p class="card-text-project">
@@ -161,7 +161,7 @@ function adjustLayout() {
 						<div class="row-project">
 							<!-- veterinar проект -->
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/veterinar.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/veterinar.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">Mixlab</h5>
 									<p class="card-text-project">
@@ -172,7 +172,7 @@ function adjustLayout() {
 							</div>
 							<!-- weather проект -->
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/weather.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/weather.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">Weather Telegram Bot</h5>
 									<p class="card-text-project">
@@ -198,7 +198,7 @@ function adjustLayout() {
 					<div class="carousel-item active">
 						<div class="row-project">
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/flask.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/flask.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">News Portal</h5>
 									<p class="card-text-project">
@@ -208,7 +208,7 @@ function adjustLayout() {
 								</div>
 							</div>
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/skills.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/skills.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">Online Learning Platform</h5>
 									<p class="card-text-project">
@@ -218,7 +218,7 @@ function adjustLayout() {
 								</div>
 							</div>
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/veterinar.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/veterinar.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">Mixlab</h5>
 									<p class="card-text-project">
@@ -232,7 +232,7 @@ function adjustLayout() {
 					<div class="carousel-item">
 						<div class="row-project">
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/calculator.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/calculator.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project"> PyQt6 Calculator</h5>
 									<p class="card-text-project">
@@ -242,7 +242,7 @@ function adjustLayout() {
 								</div>
 							</div>
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/horoscope.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/horoscope.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">Horoscope Telegram Bot</h5>
 									<p class="card-text-project">
@@ -252,7 +252,7 @@ function adjustLayout() {
 								</div>
 							</div>
 							<div class="card-project" style="width: 18rem">
-								<img src="/assets/projects/weather.png" class="card-img-top" alt="..." />
+								<img src="./assets/projects/weather.png" class="card-img-top" alt="..." />
 								<div class="card-body-project">
 									<h5 class="card-title-project">Weather Telegram Bot</h5>
 									<p class="card-text-project">
