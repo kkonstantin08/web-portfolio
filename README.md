@@ -13,7 +13,7 @@
 - JavaScript
 
 #### Как протестировать сайт
-Вы можете протестировать сайт, перейдя по следующей ссылке: [Web-porfolio](https://kkonstantin08.github.io/web-portfolio/).
+Вы можете протестировать сайт, перейдя по следующей ссылке: <a href="https://kkonstantin08.github.io/web-portfolio/" target="_blank">Web-porfolio</a>.
 
 ---
 This project is a portfolio website created to showcase the skills and projects of a web developer. The site includes information about the developer, their skills, hobbies, and projects, as well as providing a feedback option.
@@ -31,4 +31,4 @@ This project is a portfolio website created to showcase the skills and projects 
 - JavaScript
 
 #### How to Test the Site
-You can test the site by following this link: [Web-porfolio](https://kkonstantin08.github.io/web-portfolio/).
+You can test the site by following this link: <a href="https://kkonstantin08.github.io/web-portfolio/" target="_blank">Web-porfolio</a>.
